@@ -143,8 +143,6 @@ A tree-based machine learning model is developed to classify trader performance 
 Trader-Performance-vs-Market-Sentiment/
 │
 ├── Dev_Garg_Trader_Performance_vs_Market_Sentiment.ipynb
-├── historical_data.csv
-├── fear_greed_index.csv
 ├── README.md
 └── requirements.txt
 ```
